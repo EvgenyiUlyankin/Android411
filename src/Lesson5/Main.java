@@ -30,6 +30,8 @@ public class Main {
 //        int res2 = sum (a, b, c);
 //        System.out.println("Сумма 2х чисел: " + res1);
 //        System.out.println("Сумма 3х чисел: " + res2);
+
+        System.out.println("Вносим изменения");
     }
 
 //    public static int sum(int n1, int n2){
@@ -68,4 +70,5 @@ public class Main {
 //            min = n1;
 //        return min;
 //    }
+
 }

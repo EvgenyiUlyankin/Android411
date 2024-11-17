@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-//
+
 //        System.out.println("На каком вы этаже?: ");
 //        int n1 = input.nextInt();
 //        elevator(n1);
@@ -45,4 +45,7 @@ public class Main2 {
 //        }
 //        return sum;
 //    }}
+
+
+
     }
